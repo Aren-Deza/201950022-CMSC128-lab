@@ -1,0 +1,5 @@
+<!-- THIS IS THE FOOTER. I INCLUDE IT IN EVERY PHP FILE FOR EASY ACCESS-->
+
+</div>
+</body>
+</html>
